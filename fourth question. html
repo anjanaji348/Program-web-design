@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hometown</title>
+
+    <style>
+        body {
+            background-color: lightblue;
+            color: darkblue;
+            font-family: Arial;
+        }
+        h1 {
+            text-align: center;
+        }
+        img {
+            width: 300px;
+            display: block;
+            margin: auto;
+        }
+    </style>
+
+</head>
+<body>
+
+<h1>My Hometown</h1>
+
+<p>My hometown is a beautiful place with rich culture and nature.</p>
+
+<img src="https://via.placeholder.com/300" alt="Town Image">
+
+</body>
+</html>
