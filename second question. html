@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College</title>
+</head>
+<body>
+
+<h1>Welcome to My College</h1>
+
+<h2>Courses Offered</h2>
+<ul>
+    <li>BSc Computer Science</li>
+    <li>BCom</li>
+    <li>BA English</li>
+</ul>
+
+<h2>Departments</h2>
+<ul>
+    <li>Computer Science</li>
+    <li>Commerce</li>
+    <li>Humanities</li>
+</ul>
+
+<h2>Faculty</h2>
+<ul>
+    <li>Prof. A</li>
+    <li>Prof. B</li>
+</ul>
+
+<h2>Library</h2>
+<p>Our library has thousands of books and digital resources.</p>
+
+<a href="https://www.google.com">Visit College Website</a>
+
+</body>
+</html>
